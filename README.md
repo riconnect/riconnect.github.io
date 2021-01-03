@@ -2,4 +2,4 @@
 
 Ovdje će se nalaziti HTML / CSS moje osobne stranice 
 
-Adresa stranice je riconnect.github.io
+Adresa stranice je http://riconnect.github.io
